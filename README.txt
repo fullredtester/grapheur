@@ -9,8 +9,8 @@ les calculs sont fait offline sous excel
 puis envoyé au Charts.js
 
 Le contenu du site est envoyé sur Github dans un projet /grapheur
-à l'adresse  https://github.com/fullredtester/grapheur.git
+à l'adresse  https://github.com/
 
 Enfin, le contenu du site est rechargé sur le site central,
 résultat des sites PythonAnyWhere de developpement
-l'adresse est : https://www.pythonanywhere.com/user/isn2src/
+l'adresse est : https://isn2src.pythonanywhere.com
